@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://github.com/frappe/erpnext",
+    "branch": "version-15"
+  },
+  {
+    "url": "file:///D:/Desktop/ERP数据/生产环境/my_custom_app",
+    "branch": "main"
+  }
+]

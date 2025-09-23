@@ -1,0 +1,4 @@
+#page-workflow-builder .indicator-pill,
+#page-print span.inner-page-message{
+    display: none !important;
+}
