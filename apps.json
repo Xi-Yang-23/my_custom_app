@@ -4,7 +4,7 @@
     "branch": "version-15"
   },
   {
-    "url": "file:///D:/Desktop/ERP数据/生产环境/my_custom_app",
+    "url": "https://github.com/Xi-Yang-23/my_custom_app.git",
     "branch": "main"
   }
 ]
