@@ -25,12 +25,15 @@ add_to_apps_screen = [
 
 # include js, css files in header of desk.html
 app_include_css = [
-    "/assets/my_custom_app/css/hide3.css"
+    "css/hide3.css"
 ]
 app_include_js = [
-    "/assets/my_custom_app/js/hide.js"
+    "js/hide.js"
 ]
 
+
+# web_include_css = "/assets/my_custom_app/css/hide3.css"
+# web_include_js = "/assets/my_app/js/hide.js"
 
 # default_mail_footer = """
 # 	<span>
