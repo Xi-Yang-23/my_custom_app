@@ -1,5 +1,6 @@
 #page-workflow-builder .indicator-pill,
 #page-print span.inner-page-message,
-.layout-side-section .sidebar-section{
+.layout-side-section .sidebar-section,
+.sticky-top .dropdown .dropdown-help{
     display: none !important;
 }
