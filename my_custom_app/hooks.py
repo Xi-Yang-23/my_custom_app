@@ -25,10 +25,10 @@ add_to_apps_screen = [
 
 # include js, css files in header of desk.html
 app_include_css = [
-    "css/hide3.css"
+    "/assets/my_custom_app/css/hide3.css"
 ]
 app_include_js = [
-    "js/hide.js"
+    "/assets/my_custom_app/js/hide.js"
 ]
 
 
