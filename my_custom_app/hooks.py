@@ -1,3 +1,8 @@
+from . import utils
+
+# 替换 frappe 的 money_in_words 函数
+import frappe.utils
+
 app_name = "my_custom_app"
 app_title = "富芯峰ERP"
 app_publisher = "富芯峰ERP"
@@ -27,10 +32,13 @@ add_to_apps_screen = [
 app_include_css = [
     "/assets/my_custom_app/css/hide3.css"
 ]
-app_include_js = [
-    "/assets/my_custom_app/js/hide.js"
-]
+# app_include_js = [
+#     "/assets/my_custom_app/js/hide.js"
+# ]
 
+
+
+frappe.utils.money_in_words = utils.number_to_chinese
 
 # web_include_css = "/assets/my_custom_app/css/hide3.css"
 # web_include_js = "/assets/my_app/js/hide.js"
