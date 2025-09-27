@@ -12,15 +12,15 @@ app_email = "848862551@qq.com"
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
-add_to_apps_screen = [
-	{
-		"name": "my_custom_app",
-		"logo": "/assets/my_custom_app/logo.png",
-		"title": "富芯峰ERP",
-		"route": "/my_custom_app",
-		# "has_permission": "my_custom_app.api.permission.has_app_permission"
-	}
-]
+# add_to_apps_screen = [
+# 	{
+# 		"name": "my_custom_app",
+# 		"logo": "/assets/my_custom_app/logo.png",
+# 		"title": "富芯峰ERP",
+# 		"route": "/my_custom_app",
+# 		"has_permission": "my_custom_app.api.permission.has_app_permission"
+# 	}
+# ]
 
 # Includes in <head>
 # ------------------
