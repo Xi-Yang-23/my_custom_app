@@ -18,7 +18,7 @@ add_to_apps_screen = [
 		"logo": "/assets/my_custom_app/logo.png",
 		"title": "富芯峰ERP",
 		"route": "/my_custom_app",
-		"has_permission": "my_custom_app.api.permission.has_app_permission"
+		# "has_permission": "my_custom_app.api.permission.has_app_permission"
 	}
 ]
 
