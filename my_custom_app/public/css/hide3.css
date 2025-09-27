@@ -2,6 +2,7 @@
 #page-print span.inner-page-message,
 .layout-side-section .sidebar-section a,
 .sticky-top .dropdown-help,
-.form-sidebar .sidebar-menu p{
+.form-sidebar .sidebar-menu p,
+.form-message-container .mb-3{
     display: none !important;
 }
