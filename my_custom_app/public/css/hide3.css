@@ -1,6 +1,6 @@
 #page-workflow-builder .indicator-pill,
 #page-print span.inner-page-message,
-.layout-side-section .sidebar-section a,
+.layout-side-section .sidebar-section a[href$="insights"],
 .sticky-top .dropdown-help,
 .form-sidebar .sidebar-menu p,
 .form-message-container .mb-3{
